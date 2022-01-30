@@ -68,10 +68,10 @@ try:
 #    browser.execute_script("return arguments[0].scrollIntoView(true);", button2)
 #    button2.click()
 #
-#
+# 
     #button = browser.find_element_by_css_selector(".btn")
 #    browser.execute_script("return arguments[0].scrollIntoView(true);", button)
-    #button.click()
+    #button.click()1
 
 
 finally:
